@@ -1,0 +1,124 @@
+a{
+  color:#11999E;
+}
+body{
+  margin:0;
+  text-align: center;
+  background-color:white;
+  font-family: 'Merriweather',sans-serif;
+  color:#40514E;
+}
+h1{
+ font-family: 'Sacramento', cursive;
+ line-height: 2;
+ font-size: 70px;
+ color:#66BFBF;
+  margin-top:0;
+}
+h2{
+  color:#66BFBF;
+  padding:20px;
+}
+h3{
+  color:#11999E;
+}
+hr{
+  border:dotted #EAF6F6 6px;
+  border-bottom: none;
+  width:4%;
+  margin:60px auto;
+}
+p{
+  line-height: 2;
+}
+
+.button{
+  text-decoration: none;
+  background-color:#66BFBF;
+  border-radius: 8px;
+  padding: 12px 24px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  color:#EAF6F6;
+  font-style:normal;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.top-container{
+  background-color:#EAF6F6;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.p1{
+  font-weight:normal;
+}
+.image1{
+  display:inline-block;
+  height:100px;
+  width:100px;
+  position:absolute;
+  right:20px;
+}
+.image2{
+  display:inline-block;
+  height: 100px;
+  width:100px;
+  position: absolute;
+  left:10px;
+  top:15px
+}
+.image3{
+  display:inline-block;
+  height:350px;
+  width:500px;
+}
+.profilephoto{
+  height:125px;
+  width:125px;
+}
+.python{
+  float:left;
+  margin-right: 30px;
+}
+.badminton{
+  float:right;
+  margin-left: 30px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding:50px 0 20px;
+
+}
+.p6{
+  color:#EAF6F6;
+  font-size:0.75em;
+}
+.footer-link{
+  text-decoration: none;
+  color:#11999E;
+  font-family:'Merriweather',sans-serif;
+  margin: 10px 20px;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.contact-me{
+  line-height: 2;
+  margin-bottom: 40px;
+}
+.profile{
+  padding:30px;
+}
+.p2{
+  width:30%;
+  margin:auto;
+}
+.p5{
+  width:40%;
+  margin:40px auto 60px;
+}
